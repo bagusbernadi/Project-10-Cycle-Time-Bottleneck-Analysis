@@ -1,4 +1,4 @@
-"""05 - Menjalankan query analisis (sql/05_analysis.sql) dan menyimpan setiap blok ke CSV.
+"""04 - Menjalankan query analisis (sql/05_analysis.sql) dan menyimpan setiap blok ke CSV.
 
 Output: project/results/2-analysis/<nama_blok>.csv
 """

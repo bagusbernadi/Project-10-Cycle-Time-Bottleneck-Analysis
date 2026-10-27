@@ -1,7 +1,0 @@
-jenis,tabel,jumlah_baris,catatan
-jam kerja hilang (output tetap ada),work_hours,30,baris jam kerja dihapus; output operator-hari itu tetap ada
-jam kerja lebih dari 12 jam,work_hours,25,"effective_hours diubah menjadi 12,5–16"
-ok_qty negatif,daily_output,20,ok_qty diubah menjadi nilai negatif
-baris ganda,daily_output,40,baris persis sama disisipkan
-operator tidak ada di dim_operator,daily_output,10,operator_id = Op_99
-operator tanpa stasiun (dim_operator),dim_operator,1,Op_41 tanpa stasiun; 5 hari output dan jam kerja ikut ada

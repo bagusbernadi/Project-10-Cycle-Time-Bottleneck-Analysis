@@ -351,7 +351,7 @@ FILES = [
     ("docs/data_dictionary.md", "<code>project/docs/data_dictionary.md</code>", PROJ / "docs/data_dictionary.md", False),
     ("scripts/generate_data.py", "<code>project/code/1-data-preparation/python/01_generate_data.py</code>", PROJ / "code/1-data-preparation/python/01_generate_data.py", False),
     ("data/ground_truth.md", "<code>project/data/ground_truth.md</code>", PROJ / "data/ground_truth.md", False),
-    ("data/*.csv", "<code>project/data/raw/*.csv</code>", RAW_DIR / "daily_output.csv", False),
+    ("data/*.csv", "<code>project/data/raw/*.csv</code>", RAW_DIR / "daily_output.csv", True),
     ("scripts/clean_load.py", "<code>project/code/1-data-preparation/python/02_clean.py</code> dan <code>03_load_db.py</code>", PROJ / "code/1-data-preparation/python/02_clean.py", False),
     ("outputs/cleaning_log.csv", "<code>project/results/1-data-preparation/02_cleaning_log.csv</code>", RP / "02_cleaning_log.csv", False),
     ("cycletime.duckdb", "<code>project/cycletime.duckdb</code>", PROJ / "cycletime.duckdb", True),

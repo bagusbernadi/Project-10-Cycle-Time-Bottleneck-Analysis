@@ -1,3 +1,4 @@
+project/data/raw/
 project/cycletime.duckdb
 project/data/clean/
 *.duckdb.wal

@@ -23,8 +23,8 @@ Packing,8-layer,60,955.2,148.4,0.155
 Pick & Place,8-layer,60,583.3,76.5,0.131
 AOI (Automated Optical Inspection),8-layer,60,808.6,103.2,0.128
 ICT,8-layer,60,751.0,90.9,0.121
-THT Insertion,8-layer,60,653.1,77.5,0.119
 SPI (Solder Paste Inspection),8-layer,60,724.0,86.3,0.119
+THT Insertion,8-layer,60,653.1,77.5,0.119
 Solder Paste Printing,8-layer,60,537.1,62.3,0.116
 FCT,8-layer,60,660.9,72.0,0.109
 Reflow Soldering,8-layer,60,666.2,72.8,0.109

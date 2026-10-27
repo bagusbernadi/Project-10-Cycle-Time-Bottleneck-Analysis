@@ -2,7 +2,7 @@
 
 # Project 10: Cycle Time & Bottleneck Analysis
 
-**Status: Selesai di branch `project-10-build` (belum digabung ke `main`).** Dashboard belum di-deploy. Excel asli belum dicek.
+**Status: Selesai dan digabung ke `main`.** Dashboard belum di-deploy. Excel asli belum dicek.
 
 **Tujuan:** Menemukan stasiun yang membatasi output lini PCBA, operator yang menyimpang dari standar cycle time, dan estimasi kenaikan output jika bottleneck diperbaiki.
 
@@ -78,8 +78,8 @@ Dari folder `project/`, dengan Python 3.11 atau lebih baru:
     python code/1-data-preparation/python/01_generate_data.py
     python code/1-data-preparation/python/02_clean.py
     python code/1-data-preparation/python/03_load_db.py
-    python code/2-analysis/python/04_crosscheck_pandas.py
-    python code/2-analysis/python/05_run_analysis.py
+    python code/2-analysis/python/04_run_analysis.py
+    python code/2-analysis/python/05_crosscheck_pandas.py
     python code/2-analysis/python/06_excel_crosscheck.py
     python code/2-analysis/python/07_scenarios.py
     python code/3-presentation/python/08_dashboard_data.py
