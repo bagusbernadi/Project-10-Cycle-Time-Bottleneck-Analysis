@@ -1,0 +1,61 @@
+{
+  "seed": 20260302,
+  "bottleneck_utama": "Wave Soldering",
+  "bottleneck_kedua": "Solder Paste Printing",
+  "operator_lambat": {
+    "operator_id": "Op_03",
+    "station": "Solder Paste Printing",
+    "faktor_steady": 1.25,
+    "faktor_awal": 1.4,
+    "hari_belajar": 20,
+    "status": "baru"
+  },
+  "operator_cepat": {
+    "operator_id": "Op_22",
+    "station": "THT Insertion",
+    "faktor": 0.8
+  },
+  "lembur": {
+    "faktor_ct": 1.05,
+    "jam_normal": 8,
+    "jam_lembur": 10,
+    "hari_lembur": 11
+  },
+  "data_kotor": [
+    {
+      "jenis": "jam kerja hilang (output tetap ada)",
+      "tabel": "work_hours",
+      "jumlah_baris": 30
+    },
+    {
+      "jenis": "jam kerja lebih dari 12 jam",
+      "tabel": "work_hours",
+      "jumlah_baris": 25
+    },
+    {
+      "jenis": "ok_qty negatif",
+      "tabel": "daily_output",
+      "jumlah_baris": 20
+    },
+    {
+      "jenis": "baris ganda",
+      "tabel": "daily_output",
+      "jumlah_baris": 40
+    },
+    {
+      "jenis": "operator tidak ada di dim_operator",
+      "tabel": "daily_output",
+      "jumlah_baris": 10
+    },
+    {
+      "jenis": "operator tanpa stasiun (dim_operator)",
+      "tabel": "dim_operator",
+      "jumlah_baris": 1
+    }
+  ],
+  "jumlah_baris": {
+    "daily_output": 7054,
+    "work_hours": 2308,
+    "dim_operator": 41
+  }
+}

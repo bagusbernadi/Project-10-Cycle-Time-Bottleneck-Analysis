@@ -1,0 +1,121 @@
+station,operator_id,model,baris,total_jam,total_ok,ct_agregat_s
+AOI (Automated Optical Inspection),Op_17,2-layer,57,166.24,5136.0,116.52
+AOI (Automated Optical Inspection),Op_17,4-layer,57,159.81,4650.0,123.72
+AOI (Automated Optical Inspection),Op_17,8-layer,57,151.95,3977.0,137.55
+AOI (Automated Optical Inspection),Op_18,2-layer,59,163.02,5096.0,115.16
+AOI (Automated Optical Inspection),Op_18,4-layer,58,159.69,4827.0,119.1
+AOI (Automated Optical Inspection),Op_18,8-layer,59,168.17,4465.0,135.59
+AOI (Automated Optical Inspection),Op_19,2-layer,53,136.11,4358.0,112.44
+AOI (Automated Optical Inspection),Op_19,4-layer,53,158.47,4845.0,117.75
+AOI (Automated Optical Inspection),Op_19,8-layer,53,149.42,4019.0,133.84
+AOI (Automated Optical Inspection),Op_20,2-layer,58,159.23,5178.0,110.7
+AOI (Automated Optical Inspection),Op_20,4-layer,58,153.14,4707.0,117.12
+AOI (Automated Optical Inspection),Op_20,8-layer,58,171.63,4665.0,132.45
+FCT,Op_33,2-layer,58,159.44,4026.0,142.57
+FCT,Op_33,4-layer,59,168.67,3920.0,154.9
+FCT,Op_33,8-layer,59,162.28,3445.0,169.58
+FCT,Op_34,2-layer,56,165.2,4110.0,144.7
+FCT,Op_34,4-layer,56,132.91,3122.0,153.26
+FCT,Op_34,8-layer,56,169.01,3573.0,170.29
+FCT,Op_35,2-layer,58,153.69,3985.0,138.84
+FCT,Op_35,4-layer,58,169.15,4097.0,148.63
+FCT,Op_35,8-layer,58,163.16,3617.0,162.39
+FCT,Op_36,2-layer,55,157.88,4083.0,139.2
+FCT,Op_36,4-layer,56,141.24,3422.0,148.59
+FCT,Op_36,8-layer,56,162.36,3556.0,164.37
+ICT,Op_29,2-layer,58,172.12,5132.0,120.74
+ICT,Op_29,4-layer,58,164.95,4503.0,131.87
+ICT,Op_29,8-layer,58,146.93,3601.0,146.89
+ICT,Op_30,2-layer,58,148.01,4599.0,115.86
+ICT,Op_30,4-layer,57,172.33,4932.0,125.79
+ICT,Op_30,8-layer,58,161.06,4127.0,140.49
+ICT,Op_31,2-layer,55,158.73,4869.0,117.36
+ICT,Op_31,4-layer,55,142.39,4000.0,128.15
+ICT,Op_31,8-layer,54,156.38,3904.0,144.2
+ICT,Op_32,2-layer,57,169.19,4925.0,123.67
+ICT,Op_32,4-layer,57,162.45,4345.0,134.6
+ICT,Op_32,8-layer,57,146.36,3535.0,149.05
+Packing,Op_37,2-layer,56,169.57,6569.0,92.93
+Packing,Op_37,4-layer,56,157.49,5763.0,98.38
+Packing,Op_37,8-layer,55,137.39,4565.0,108.35
+Packing,Op_38,2-layer,55,156.66,6073.0,92.87
+Packing,Op_38,4-layer,55,150.45,5530.0,97.94
+Packing,Op_38,8-layer,55,152.89,5040.0,109.21
+Packing,Op_39,2-layer,56,157.03,6363.0,88.84
+Packing,Op_39,4-layer,56,159.5,6162.0,93.18
+Packing,Op_39,8-layer,54,148.33,5212.0,102.45
+Packing,Op_40,2-layer,52,153.31,5731.0,96.3
+Packing,Op_40,4-layer,52,148.73,5229.0,102.4
+Packing,Op_40,8-layer,52,135.96,4350.0,112.52
+Pick & Place,Op_09,2-layer,57,148.25,3508.0,152.14
+Pick & Place,Op_09,4-layer,57,162.31,3495.0,167.19
+Pick & Place,Op_09,8-layer,57,165.44,3158.0,188.6
+Pick & Place,Op_10,2-layer,55,156.76,3710.0,152.11
+Pick & Place,Op_10,4-layer,55,146.45,3203.0,164.6
+Pick & Place,Op_10,8-layer,55,154.79,2976.0,187.25
+Pick & Place,Op_11,2-layer,56,159.08,3881.0,147.56
+Pick & Place,Op_11,4-layer,56,154.19,3394.0,163.55
+Pick & Place,Op_11,8-layer,56,154.73,3051.0,182.57
+Pick & Place,Op_12,2-layer,59,155.53,3629.0,154.29
+Pick & Place,Op_12,4-layer,59,174.22,3764.0,166.63
+Pick & Place,Op_12,8-layer,59,164.25,3130.0,188.91
+Reflow Soldering,Op_13,2-layer,59,164.24,4137.0,142.92
+Reflow Soldering,Op_13,4-layer,59,161.81,3800.0,153.29
+Reflow Soldering,Op_13,8-layer,59,167.95,3574.0,169.17
+Reflow Soldering,Op_14,2-layer,55,160.95,4289.0,135.09
+Reflow Soldering,Op_14,4-layer,56,161.17,3976.0,145.93
+Reflow Soldering,Op_14,8-layer,56,146.68,3295.0,160.26
+Reflow Soldering,Op_15,2-layer,60,163.02,4181.0,140.37
+Reflow Soldering,Op_15,4-layer,60,162.26,3856.0,151.49
+Reflow Soldering,Op_15,8-layer,59,174.34,3794.0,165.43
+Reflow Soldering,Op_16,2-layer,56,150.45,3806.0,142.31
+Reflow Soldering,Op_16,4-layer,56,160.39,3808.0,151.63
+Reflow Soldering,Op_16,8-layer,56,159.16,3411.0,167.98
+SPI (Solder Paste Inspection),Op_05,2-layer,57,163.64,4879.0,120.74
+SPI (Solder Paste Inspection),Op_05,4-layer,58,154.86,4277.0,130.35
+SPI (Solder Paste Inspection),Op_05,8-layer,58,165.42,3972.0,149.93
+SPI (Solder Paste Inspection),Op_06,2-layer,57,152.75,4647.0,118.33
+SPI (Solder Paste Inspection),Op_06,4-layer,57,179.38,4999.0,129.18
+SPI (Solder Paste Inspection),Op_06,8-layer,57,145.87,3555.0,147.72
+SPI (Solder Paste Inspection),Op_07,2-layer,57,168.18,5036.0,120.22
+SPI (Solder Paste Inspection),Op_07,4-layer,56,144.47,4034.0,128.93
+SPI (Solder Paste Inspection),Op_07,8-layer,57,158.95,3831.0,149.37
+SPI (Solder Paste Inspection),Op_08,2-layer,55,149.43,4210.0,127.78
+SPI (Solder Paste Inspection),Op_08,4-layer,56,156.39,4123.0,136.55
+SPI (Solder Paste Inspection),Op_08,8-layer,56,156.49,3594.0,156.75
+Solder Paste Printing,Op_01,2-layer,58,152.41,3255.0,168.56
+Solder Paste Printing,Op_01,4-layer,58,163.6,3350.0,175.81
+Solder Paste Printing,Op_01,8-layer,58,167.99,3074.0,196.74
+Solder Paste Printing,Op_02,2-layer,56,150.77,3127.0,173.58
+Solder Paste Printing,Op_02,4-layer,56,173.2,3380.0,184.47
+Solder Paste Printing,Op_02,8-layer,56,146.03,2579.0,203.84
+Solder Paste Printing,Op_03,2-layer,56,159.91,2669.0,215.69
+Solder Paste Printing,Op_03,4-layer,56,154.14,2466.0,225.02
+Solder Paste Printing,Op_03,8-layer,56,155.95,2228.0,251.98
+Solder Paste Printing,Op_04,2-layer,57,159.12,3403.0,168.33
+Solder Paste Printing,Op_04,4-layer,57,164.11,3317.0,178.11
+Solder Paste Printing,Op_04,8-layer,57,154.77,2824.0,197.3
+THT Insertion,Op_21,2-layer,56,163.89,4496.0,131.23
+THT Insertion,Op_21,4-layer,56,151.03,3724.0,146.0
+THT Insertion,Op_21,8-layer,56,153.08,3349.0,164.55
+THT Insertion,Op_22,2-layer,56,167.46,5568.0,108.27
+THT Insertion,Op_22,4-layer,56,145.26,4369.0,119.69
+THT Insertion,Op_22,8-layer,56,155.28,4091.0,136.64
+THT Insertion,Op_23,2-layer,57,147.3,3824.0,138.67
+THT Insertion,Op_23,4-layer,56,143.49,3325.0,155.36
+THT Insertion,Op_23,8-layer,56,180.18,3686.0,175.98
+THT Insertion,Op_24,2-layer,58,149.43,3986.0,134.96
+THT Insertion,Op_24,4-layer,58,161.43,3863.0,150.44
+THT Insertion,Op_24,8-layer,58,173.14,3657.0,170.44
+Wave Soldering,Op_25,2-layer,59,169.47,2507.0,243.36
+Wave Soldering,Op_25,4-layer,59,168.0,2343.0,258.13
+Wave Soldering,Op_25,8-layer,59,156.53,1979.0,284.74
+Wave Soldering,Op_26,2-layer,57,151.13,2321.0,234.41
+Wave Soldering,Op_26,4-layer,57,164.98,2370.0,250.6
+Wave Soldering,Op_26,8-layer,57,161.89,2103.0,277.13
+Wave Soldering,Op_27,2-layer,59,163.37,2418.0,243.23
+Wave Soldering,Op_27,4-layer,59,154.54,2165.0,256.97
+Wave Soldering,Op_27,8-layer,60,179.25,2267.0,284.65
+Wave Soldering,Op_28,2-layer,58,156.52,2389.0,235.86
+Wave Soldering,Op_28,4-layer,58,170.51,2448.0,250.75
+Wave Soldering,Op_28,8-layer,58,158.97,2079.0,275.27

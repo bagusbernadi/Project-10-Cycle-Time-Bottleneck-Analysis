@@ -1,0 +1,5 @@
+shift,kondisi,baris,rasio_ct_per_standar
+A,normal (8 jam),2788,1.001
+A,lembur (10 jam),632,1.049
+B,normal (8 jam),2760,1.006
+B,lembur (10 jam),634,1.058

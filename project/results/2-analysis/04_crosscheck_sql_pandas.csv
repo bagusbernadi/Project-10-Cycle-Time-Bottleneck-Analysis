@@ -1,0 +1,4 @@
+cek,jumlah_nilai,selisih_maks,toleransi,status
+CT median per operator (q4) vs pandas,120,0.0,0.05,PASS
+kapasitas stasiun-model (q1) vs pandas,30,0.05,0.05,PASS
+rasio CT per standar shift x lembur (q7) vs pandas,4,0.0,0.001,PASS

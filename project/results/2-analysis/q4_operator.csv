@@ -1,0 +1,121 @@
+station,operator_id,model,status,n_hari,ct_median_s,ct_q1_s,ct_q3_s,ct_median_stasiun,deviasi,n_outlier_hari
+AOI (Automated Optical Inspection),Op_17,2-layer,reguler,57,116.4,113.9,118.7,113.7,0.0236,1.0
+AOI (Automated Optical Inspection),Op_18,2-layer,reguler,59,114.6,111.1,118.2,113.7,0.008,0.0
+AOI (Automated Optical Inspection),Op_19,2-layer,reguler,53,112.8,108.6,116.3,113.7,-0.0078,0.0
+AOI (Automated Optical Inspection),Op_20,2-layer,reguler,58,111.3,108.1,113.5,113.7,-0.0209,0.0
+AOI (Automated Optical Inspection),Op_17,4-layer,reguler,57,123.8,120.0,127.5,119.8,0.0333,0.0
+AOI (Automated Optical Inspection),Op_18,4-layer,reguler,58,118.5,114.5,124.4,119.8,-0.0105,0.0
+AOI (Automated Optical Inspection),Op_20,4-layer,reguler,58,117.8,114.0,121.5,119.8,-0.0162,0.0
+AOI (Automated Optical Inspection),Op_19,4-layer,reguler,53,117.6,114.3,121.0,119.8,-0.0178,1.0
+AOI (Automated Optical Inspection),Op_17,8-layer,reguler,57,137.7,132.8,143.5,134.6,0.0236,0.0
+AOI (Automated Optical Inspection),Op_18,8-layer,reguler,59,136.9,132.2,139.9,134.6,0.0173,0.0
+AOI (Automated Optical Inspection),Op_19,8-layer,reguler,53,133.9,128.9,139.1,134.6,-0.0052,0.0
+AOI (Automated Optical Inspection),Op_20,8-layer,reguler,58,131.8,128.5,135.3,134.6,-0.0204,0.0
+FCT,Op_34,2-layer,reguler,56,144.0,140.4,147.7,140.5,0.0251,3.0
+FCT,Op_33,2-layer,reguler,58,142.4,137.8,147.8,140.5,0.0139,2.0
+FCT,Op_36,2-layer,reguler,55,139.2,134.8,143.6,140.5,-0.0089,0.0
+FCT,Op_35,2-layer,reguler,58,138.5,135.2,140.8,140.5,-0.0144,1.0
+FCT,Op_33,4-layer,reguler,59,153.3,150.1,158.5,150.8,0.0163,2.0
+FCT,Op_34,4-layer,reguler,56,153.3,149.6,158.5,150.8,0.016,0.0
+FCT,Op_35,4-layer,reguler,58,148.9,144.0,153.5,150.8,-0.013,0.0
+FCT,Op_36,4-layer,reguler,56,148.3,144.4,153.0,150.8,-0.017,0.0
+FCT,Op_34,8-layer,reguler,56,168.7,162.8,176.7,166.2,0.0149,2.0
+FCT,Op_33,8-layer,reguler,59,168.2,164.4,173.5,166.2,0.012,1.0
+FCT,Op_36,8-layer,reguler,56,164.3,159.0,170.1,166.2,-0.0112,0.0
+FCT,Op_35,8-layer,reguler,58,164.3,156.1,167.7,166.2,-0.0112,0.0
+ICT,Op_32,2-layer,reguler,57,123.8,118.8,127.5,118.7,0.0437,1.0
+ICT,Op_29,2-layer,reguler,58,119.8,116.7,123.3,118.7,0.0097,0.0
+ICT,Op_31,2-layer,reguler,55,115.8,113.4,120.7,118.7,-0.0243,0.0
+ICT,Op_30,2-layer,reguler,58,115.5,112.3,118.5,118.7,-0.0265,0.0
+ICT,Op_32,4-layer,reguler,57,134.2,130.9,137.4,130.1,0.0318,0.0
+ICT,Op_29,4-layer,reguler,58,132.1,128.4,134.5,130.1,0.0153,0.0
+ICT,Op_31,4-layer,reguler,55,127.9,124.2,132.0,130.1,-0.017,0.0
+ICT,Op_30,4-layer,reguler,57,125.3,123.0,128.3,130.1,-0.0365,0.0
+ICT,Op_32,8-layer,reguler,57,148.8,144.5,152.8,144.9,0.0274,2.0
+ICT,Op_29,8-layer,reguler,58,146.4,141.5,150.9,144.9,0.0108,3.0
+ICT,Op_31,8-layer,reguler,54,144.4,140.6,146.8,144.9,-0.0034,0.0
+ICT,Op_30,8-layer,reguler,58,139.4,136.3,144.8,144.9,-0.0378,0.0
+Packing,Op_40,2-layer,reguler,52,96.2,93.1,98.8,92.3,0.0419,1.0
+Packing,Op_38,2-layer,reguler,55,92.9,91.2,96.1,92.3,0.0066,1.0
+Packing,Op_37,2-layer,reguler,56,92.7,90.0,95.4,92.3,0.0041,0.0
+Packing,Op_39,2-layer,reguler,56,89.0,85.9,90.6,92.3,-0.0359,0.0
+Packing,Op_40,4-layer,reguler,52,101.6,98.5,104.5,97.8,0.0392,2.0
+Packing,Op_38,4-layer,reguler,55,98.5,94.6,100.7,97.8,0.0069,0.0
+Packing,Op_37,4-layer,reguler,56,98.1,95.3,101.4,97.8,0.0028,0.0
+Packing,Op_39,4-layer,reguler,56,92.4,90.5,95.6,97.8,-0.0553,0.0
+Packing,Op_40,8-layer,reguler,52,112.9,110.3,115.5,108.4,0.0414,0.0
+Packing,Op_38,8-layer,reguler,55,109.9,106.5,114.0,108.4,0.014,0.0
+Packing,Op_37,8-layer,reguler,55,107.7,105.4,111.0,108.4,-0.0066,0.0
+Packing,Op_39,8-layer,reguler,54,102.2,99.3,106.9,108.4,-0.0573,1.0
+Pick & Place,Op_12,2-layer,reguler,59,153.6,150.5,157.2,151.0,0.0169,0.0
+Pick & Place,Op_10,2-layer,reguler,55,151.9,146.7,156.8,151.0,0.0061,0.0
+Pick & Place,Op_09,2-layer,reguler,57,150.7,147.1,156.0,151.0,-0.0021,1.0
+Pick & Place,Op_11,2-layer,reguler,56,147.4,142.2,151.1,151.0,-0.0237,0.0
+Pick & Place,Op_12,4-layer,reguler,59,166.5,162.4,171.7,165.6,0.0054,0.0
+Pick & Place,Op_09,4-layer,reguler,57,165.8,163.4,170.9,165.6,0.0009,2.0
+Pick & Place,Op_11,4-layer,reguler,56,163.9,158.8,169.9,165.6,-0.0104,0.0
+Pick & Place,Op_10,4-layer,reguler,55,163.0,158.8,169.8,165.6,-0.0156,1.0
+Pick & Place,Op_12,8-layer,reguler,59,188.8,183.1,193.6,186.9,0.0101,0.0
+Pick & Place,Op_09,8-layer,reguler,57,187.7,183.2,192.9,186.9,0.0043,1.0
+Pick & Place,Op_10,8-layer,reguler,55,187.2,180.9,191.3,186.9,0.0016,2.0
+Pick & Place,Op_11,8-layer,reguler,56,183.0,177.8,188.9,186.9,-0.0209,0.0
+Reflow Soldering,Op_16,2-layer,reguler,56,143.0,139.2,147.0,140.3,0.0196,0.0
+Reflow Soldering,Op_13,2-layer,reguler,59,142.1,138.9,145.9,140.3,0.013,1.0
+Reflow Soldering,Op_15,2-layer,reguler,60,140.3,137.3,145.0,140.3,0.0004,0.0
+Reflow Soldering,Op_14,2-layer,reguler,55,135.3,131.1,139.7,140.3,-0.0352,2.0
+Reflow Soldering,Op_13,4-layer,reguler,59,152.2,148.9,158.5,150.4,0.0119,1.0
+Reflow Soldering,Op_16,4-layer,reguler,56,151.8,147.7,157.0,150.4,0.0088,0.0
+Reflow Soldering,Op_15,4-layer,reguler,60,150.7,146.6,155.2,150.4,0.0016,0.0
+Reflow Soldering,Op_14,4-layer,reguler,56,147.0,142.6,150.3,150.4,-0.0226,0.0
+Reflow Soldering,Op_13,8-layer,reguler,59,168.9,164.8,172.7,166.2,0.0162,0.0
+Reflow Soldering,Op_16,8-layer,reguler,56,167.6,160.9,171.8,166.2,0.0084,0.0
+Reflow Soldering,Op_15,8-layer,reguler,59,166.1,160.3,169.5,166.2,-0.0008,1.0
+Reflow Soldering,Op_14,8-layer,reguler,56,160.6,155.8,164.4,166.2,-0.0338,1.0
+SPI (Solder Paste Inspection),Op_08,2-layer,reguler,55,126.9,123.1,130.7,120.5,0.0531,4.0
+SPI (Solder Paste Inspection),Op_07,2-layer,reguler,57,120.2,116.6,122.4,120.5,-0.0031,0.0
+SPI (Solder Paste Inspection),Op_05,2-layer,reguler,57,120.2,117.6,123.9,120.5,-0.0031,0.0
+SPI (Solder Paste Inspection),Op_06,2-layer,reguler,57,118.2,114.8,120.8,120.5,-0.0199,0.0
+SPI (Solder Paste Inspection),Op_08,4-layer,reguler,56,136.9,132.5,141.4,130.6,0.0486,2.0
+SPI (Solder Paste Inspection),Op_05,4-layer,reguler,58,131.2,128.2,134.7,130.6,0.0047,0.0
+SPI (Solder Paste Inspection),Op_07,4-layer,reguler,56,128.6,125.3,132.6,130.6,-0.0156,0.0
+SPI (Solder Paste Inspection),Op_06,4-layer,reguler,57,128.4,125.4,132.1,130.6,-0.0169,0.0
+SPI (Solder Paste Inspection),Op_08,8-layer,reguler,56,156.4,152.8,161.7,151.5,0.0323,3.0
+SPI (Solder Paste Inspection),Op_05,8-layer,reguler,58,150.4,146.2,155.3,151.5,-0.0072,0.0
+SPI (Solder Paste Inspection),Op_07,8-layer,reguler,57,150.2,145.0,153.4,151.5,-0.0088,0.0
+SPI (Solder Paste Inspection),Op_06,8-layer,reguler,57,146.8,141.5,153.0,151.5,-0.0311,2.0
+Solder Paste Printing,Op_03,2-layer,baru,56,211.8,207.2,222.7,172.6,0.2268,11.0
+Solder Paste Printing,Op_02,2-layer,reguler,56,174.2,167.9,178.9,172.6,0.0092,0.0
+Solder Paste Printing,Op_01,2-layer,reguler,58,167.8,162.9,170.9,172.6,-0.0278,0.0
+Solder Paste Printing,Op_04,2-layer,reguler,57,166.8,163.2,171.0,172.6,-0.0336,0.0
+Solder Paste Printing,Op_03,4-layer,baru,56,221.0,215.7,234.5,182.2,0.2134,5.0
+Solder Paste Printing,Op_02,4-layer,reguler,56,183.2,177.2,189.1,182.2,0.0059,0.0
+Solder Paste Printing,Op_04,4-layer,reguler,57,177.6,171.3,182.2,182.2,-0.0249,0.0
+Solder Paste Printing,Op_01,4-layer,reguler,58,174.4,170.1,179.0,182.2,-0.0428,0.0
+Solder Paste Printing,Op_03,8-layer,baru,56,249.2,242.0,258.9,202.4,0.2317,6.0
+Solder Paste Printing,Op_02,8-layer,reguler,56,203.3,198.6,210.7,202.4,0.0047,0.0
+Solder Paste Printing,Op_04,8-layer,reguler,57,196.7,192.0,202.5,202.4,-0.0281,0.0
+Solder Paste Printing,Op_01,8-layer,reguler,58,195.9,191.1,201.5,202.4,-0.0321,0.0
+THT Insertion,Op_23,2-layer,reguler,57,138.5,134.6,143.4,132.2,0.0476,0.0
+THT Insertion,Op_24,2-layer,reguler,58,134.7,130.8,139.6,132.2,0.0188,0.0
+THT Insertion,Op_21,2-layer,reguler,56,131.2,128.4,135.5,132.2,-0.0072,0.0
+THT Insertion,Op_22,2-layer,reguler,56,107.6,103.5,112.6,132.2,-0.1856,1.0
+THT Insertion,Op_23,4-layer,reguler,56,156.6,149.4,160.5,146.7,0.0671,0.0
+THT Insertion,Op_24,4-layer,reguler,58,150.6,145.2,156.5,146.7,0.0264,0.0
+THT Insertion,Op_21,4-layer,reguler,56,146.6,140.4,150.4,146.7,-0.0008,0.0
+THT Insertion,Op_22,4-layer,reguler,56,120.0,116.4,122.7,146.7,-0.1822,0.0
+THT Insertion,Op_23,8-layer,reguler,56,175.6,171.5,179.2,166.0,0.0583,0.0
+THT Insertion,Op_24,8-layer,reguler,58,168.8,163.1,175.4,166.0,0.0174,0.0
+THT Insertion,Op_21,8-layer,reguler,56,165.0,160.3,170.2,166.0,-0.0055,0.0
+THT Insertion,Op_22,8-layer,reguler,56,134.9,131.9,140.4,166.0,-0.1872,0.0
+Wave Soldering,Op_25,2-layer,reguler,59,243.2,234.9,251.2,238.2,0.0209,2.0
+Wave Soldering,Op_27,2-layer,reguler,59,240.9,235.4,249.7,238.2,0.0113,1.0
+Wave Soldering,Op_28,2-layer,reguler,58,234.3,229.0,243.2,238.2,-0.0166,0.0
+Wave Soldering,Op_26,2-layer,reguler,57,231.1,225.0,243.4,238.2,-0.03,0.0
+Wave Soldering,Op_25,4-layer,reguler,59,258.1,249.6,263.7,253.1,0.0201,1.0
+Wave Soldering,Op_27,4-layer,reguler,59,255.1,248.1,265.1,253.1,0.0082,2.0
+Wave Soldering,Op_28,4-layer,reguler,58,249.2,242.0,259.5,253.1,-0.0153,0.0
+Wave Soldering,Op_26,4-layer,reguler,57,249.1,243.4,256.8,253.1,-0.0157,1.0
+Wave Soldering,Op_27,8-layer,reguler,60,284.7,277.4,292.7,279.9,0.0173,0.0
+Wave Soldering,Op_25,8-layer,reguler,59,283.4,274.7,293.0,279.9,0.0126,0.0
+Wave Soldering,Op_26,8-layer,reguler,57,276.5,269.6,284.2,279.9,-0.0119,0.0
+Wave Soldering,Op_28,8-layer,reguler,58,274.1,268.2,281.7,279.9,-0.0207,0.0

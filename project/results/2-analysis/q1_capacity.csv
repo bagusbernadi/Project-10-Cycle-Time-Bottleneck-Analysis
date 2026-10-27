@@ -1,0 +1,31 @@
+model,sequence,station,n_operator_aktif,ct_std_s,ct_median_s,kapasitas_unit_per_hari,peringkat_bottleneck
+2-layer,7,Wave Soldering,4,230.0,238.2,483.6,1
+2-layer,1,Solder Paste Printing,4,170.0,172.6,667.3,2
+2-layer,3,Pick & Place,4,150.0,151.0,762.9,3
+2-layer,9,FCT,4,140.0,140.5,820.1,4
+2-layer,4,Reflow Soldering,4,140.0,140.3,821.4,5
+2-layer,6,THT Insertion,4,135.0,132.2,871.6,6
+2-layer,2,SPI (Solder Paste Inspection),4,120.0,120.5,955.6,7
+2-layer,8,ICT,4,120.0,118.7,970.9,8
+2-layer,5,AOI (Automated Optical Inspection),4,110.0,113.7,1012.9,9
+2-layer,10,Packing,4,90.0,92.3,1248.1,10
+4-layer,7,Wave Soldering,4,245.0,253.1,455.2,1
+4-layer,1,Solder Paste Printing,4,180.0,182.2,632.4,2
+4-layer,3,Pick & Place,4,165.0,165.6,695.7,3
+4-layer,9,FCT,4,150.0,150.8,763.7,4
+4-layer,4,Reflow Soldering,4,150.0,150.4,765.8,5
+4-layer,6,THT Insertion,4,150.0,146.7,785.1,6
+4-layer,2,SPI (Solder Paste Inspection),4,130.0,130.6,882.1,7
+4-layer,8,ICT,4,130.0,130.1,885.6,8
+4-layer,5,AOI (Automated Optical Inspection),4,115.0,119.8,961.9,9
+4-layer,10,Packing,4,95.0,97.8,1178.0,10
+8-layer,7,Wave Soldering,4,270.0,279.9,411.6,1
+8-layer,1,Solder Paste Printing,4,200.0,202.4,569.3,2
+8-layer,3,Pick & Place,4,185.0,186.9,616.4,3
+8-layer,4,Reflow Soldering,4,165.0,166.2,693.0,4
+8-layer,9,FCT,4,165.0,166.2,693.1,5
+8-layer,6,THT Insertion,4,170.0,166.0,694.2,6
+8-layer,2,SPI (Solder Paste Inspection),4,150.0,151.5,760.2,7
+8-layer,8,ICT,4,145.0,144.9,795.2,8
+8-layer,5,AOI (Automated Optical Inspection),4,130.0,134.6,856.1,9
+8-layer,10,Packing,4,105.0,108.4,1062.7,10

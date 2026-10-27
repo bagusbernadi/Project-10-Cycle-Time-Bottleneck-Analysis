@@ -1,0 +1,9 @@
+cek,dashboard,sql,status
+total unit OK (dashboard vs SQL),468920.0,468920.0,PASS
+bottleneck 2-layer (dashboard vs SQL),Wave Soldering,Wave Soldering,PASS
+output lini 2-layer per hari (dashboard vs SQL),484.0,484,PASS
+perbaiki stasiun kedua (non-bottleneck) 15%: kenaikan output,0.0,0.0,PASS
+perbaiki bottleneck 15%: kenaikan output > 0,17.6,> 0,PASS
+halaman Kapasitas Lini tampil tanpa error,ok,ok,PASS
+halaman Cycle Time Operator tampil tanpa error,ok,ok,PASS
+halaman Ringkasan tampil tanpa error,ok,ok,PASS

@@ -1,0 +1,11 @@
+station,sequence,ct_std_2layer_s,ct_std_4layer_s,ct_std_8layer_s,n_operator
+Solder Paste Printing,1,170.0,180.0,200.0,4
+SPI (Solder Paste Inspection),2,120.0,130.0,150.0,4
+Pick & Place,3,150.0,165.0,185.0,4
+Reflow Soldering,4,140.0,150.0,165.0,4
+AOI (Automated Optical Inspection),5,110.0,115.0,130.0,4
+THT Insertion,6,135.0,150.0,170.0,4
+Wave Soldering,7,230.0,245.0,270.0,4
+ICT,8,120.0,130.0,145.0,4
+FCT,9,140.0,150.0,165.0,4
+Packing,10,90.0,95.0,105.0,4

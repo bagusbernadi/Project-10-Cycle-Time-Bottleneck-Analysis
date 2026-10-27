@@ -1,0 +1,17 @@
+langkah,tabel,status,baris,catatan
+baris mentah daily_output,daily_output,total,7054,
+baris mentah work_hours,work_hours,total,2308,
+jam kerja lebih dari 12 jam,work_hours,dibuang,25,dibuang; output operator-hari itu ikut dibuang (lihat 'output tanpa jam kerja')
+jam kerja nol atau negatif,work_hours,dibuang,0,
+jam kerja ganda (operator dan tanggal sama),work_hours,dibuang,0,
+operator tanpa stasiun,work_hours,dibuang,5,
+baris ganda (semua kolom sama),daily_output,dibuang,40,
+operator tidak ada di dim_operator,daily_output,dibuang,10,operator_id tidak terdaftar
+operator tanpa stasiun,daily_output,dibuang,5,
+ok atau ng negatif,daily_output,dibuang,20,
+run_hours nol atau negatif,daily_output,dibuang,0,
+output tanpa jam kerja akibat jam kerja dibuang,daily_output,rincian,75,jam kerja-nya ada di data mentah tetapi dibuang di langkah 1 atau 2
+output tanpa jam kerja,daily_output,dibuang,165,termasuk yang jam kerjanya dihapus dari sumber (lihat log)
+cek: jumlah run_hours = jam efektif (operator-hari tanpa baris dibuang),daily_output,dicatat,0,operator-hari dicek: 2218; 0 = konsisten
+baris bersih daily_output,daily_output,total,6814,
+baris bersih work_hours,work_hours,total,2278,

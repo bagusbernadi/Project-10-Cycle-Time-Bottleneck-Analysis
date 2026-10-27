@@ -1,0 +1,22 @@
+model,skenario,stasiun,ct_lama_s,ct_baru_s,kenaikan_kapasitas_stasiun,output_lini_baru,kenaikan_output_lini,bottleneck_baru,catatan
+2-layer,bottleneck CT turun 10%,Wave Soldering,238.2,214.4,0.1111,537.3,0.1111,Wave Soldering,estimated
+2-layer,bottleneck CT turun 20%,Wave Soldering,238.2,190.6,0.25,604.4,0.25,Wave Soldering,estimated
+2-layer,bottleneck CT turun 30%,Wave Soldering,238.2,166.8,0.4286,667.3,0.38,Solder Paste Printing,estimated; bottleneck berpindah jika kapasitasnya melewati stasiun kedua
+2-layer,stasiun bukan bottleneck CT turun 30%,Solder Paste Printing,172.6,120.8,0.4286,483.6,0.0,Wave Soldering,estimated; output tidak naik karena bottleneck tetap
+2-layer,operator bottleneck mencapai median,Wave Soldering,237.3,235.1,0.0092,490.0,0.0092,Wave Soldering,estimated; operator di atas median turun ke median
+2-layer,operator bottleneck mencapai tercepat,Wave Soldering,237.3,231.1,0.0268,498.5,0.0268,Wave Soldering,estimated; semua operator setara dengan operator tercepat
+2-layer,operator tambahan minimal untuk target output +10%,Wave Soldering,238.2,238.2,0.25,604.4,0.25,Wave Soldering,estimated; tambahan 1 operator; kapasitas stasiun kedua Solder Paste Printing 667/hari
+4-layer,bottleneck CT turun 10%,Wave Soldering,253.1,227.8,0.1111,505.8,0.1111,Wave Soldering,estimated
+4-layer,bottleneck CT turun 20%,Wave Soldering,253.1,202.4,0.25,569.0,0.25,Wave Soldering,estimated
+4-layer,bottleneck CT turun 30%,Wave Soldering,253.1,177.1,0.4286,632.4,0.3892,Solder Paste Printing,estimated; bottleneck berpindah jika kapasitasnya melewati stasiun kedua
+4-layer,stasiun bukan bottleneck CT turun 30%,Solder Paste Printing,182.2,127.5,0.4286,455.2,0.0,Wave Soldering,estimated; output tidak naik karena bottleneck tetap
+4-layer,operator bottleneck mencapai median,Wave Soldering,252.8,250.6,0.0087,459.6,0.0087,Wave Soldering,estimated; operator di atas median turun ke median
+4-layer,operator bottleneck mencapai tercepat,Wave Soldering,252.8,249.1,0.015,462.5,0.015,Wave Soldering,estimated; semua operator setara dengan operator tercepat
+4-layer,operator tambahan minimal untuk target output +10%,Wave Soldering,253.1,253.1,0.25,569.0,0.25,Wave Soldering,estimated; tambahan 1 operator; kapasitas stasiun kedua Solder Paste Printing 632/hari
+8-layer,bottleneck CT turun 10%,Wave Soldering,279.9,251.9,0.1111,457.4,0.1111,Wave Soldering,estimated
+8-layer,bottleneck CT turun 20%,Wave Soldering,279.9,223.9,0.25,514.5,0.25,Wave Soldering,estimated
+8-layer,bottleneck CT turun 30%,Wave Soldering,279.9,195.9,0.4286,569.3,0.383,Solder Paste Printing,estimated; bottleneck berpindah jika kapasitasnya melewati stasiun kedua
+8-layer,stasiun bukan bottleneck CT turun 30%,Solder Paste Printing,202.4,141.7,0.4286,411.6,0.0,Wave Soldering,estimated; output tidak naik karena bottleneck tetap
+8-layer,operator bottleneck mencapai median,Wave Soldering,279.6,277.6,0.0072,415.0,0.0072,Wave Soldering,estimated; operator di atas median turun ke median
+8-layer,operator bottleneck mencapai tercepat,Wave Soldering,279.6,274.1,0.0202,420.3,0.0202,Wave Soldering,estimated; semua operator setara dengan operator tercepat
+8-layer,operator tambahan minimal untuk target output +10%,Wave Soldering,279.9,279.9,0.25,514.5,0.25,Wave Soldering,estimated; tambahan 1 operator; kapasitas stasiun kedua Solder Paste Printing 569/hari

@@ -1,0 +1,31 @@
+station,model,ct_median_stasiun,ct_tercepat,rasio_tercepat_per_median
+THT Insertion,2-layer,132.2,107.6,0.814
+Packing,2-layer,92.3,89.0,0.964
+Reflow Soldering,2-layer,140.3,135.3,0.965
+Solder Paste Printing,2-layer,172.6,166.8,0.966
+Wave Soldering,2-layer,238.2,231.1,0.97
+ICT,2-layer,118.7,115.5,0.974
+Pick & Place,2-layer,151.0,147.4,0.976
+AOI (Automated Optical Inspection),2-layer,113.7,111.3,0.979
+SPI (Solder Paste Inspection),2-layer,120.5,118.2,0.98
+FCT,2-layer,140.5,138.5,0.986
+THT Insertion,4-layer,146.7,120.0,0.818
+Packing,4-layer,97.8,92.4,0.945
+Solder Paste Printing,4-layer,182.2,174.4,0.957
+ICT,4-layer,130.1,125.3,0.964
+Reflow Soldering,4-layer,150.4,147.0,0.977
+AOI (Automated Optical Inspection),4-layer,119.8,117.6,0.982
+FCT,4-layer,150.8,148.3,0.983
+SPI (Solder Paste Inspection),4-layer,130.6,128.4,0.983
+Pick & Place,4-layer,165.6,163.0,0.984
+Wave Soldering,4-layer,253.1,249.1,0.984
+THT Insertion,8-layer,166.0,134.9,0.813
+Packing,8-layer,108.4,102.2,0.943
+ICT,8-layer,144.9,139.4,0.962
+Reflow Soldering,8-layer,166.2,160.6,0.966
+Solder Paste Printing,8-layer,202.4,195.9,0.968
+SPI (Solder Paste Inspection),8-layer,151.5,146.8,0.969
+Pick & Place,8-layer,186.9,183.0,0.979
+Wave Soldering,8-layer,279.9,274.1,0.979
+AOI (Automated Optical Inspection),8-layer,134.6,131.8,0.98
+FCT,8-layer,166.2,164.3,0.989

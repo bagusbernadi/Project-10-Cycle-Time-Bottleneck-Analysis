@@ -1,0 +1,15 @@
+station,operator_id,model,ct_excel_s,ct_sql_s,selisih_s,status
+Solder Paste Printing,Op_03,2-layer,215.69,215.69,0,PASS
+Solder Paste Printing,Op_03,4-layer,225.02,225.02,0,PASS
+Solder Paste Printing,Op_03,8-layer,251.98,251.98,0,PASS
+THT Insertion,Op_22,2-layer,108.27,108.27,0,PASS
+THT Insertion,Op_24,4-layer,150.44,150.44,0,PASS
+AOI (Automated Optical Inspection),Op_18,4-layer,119.1,119.1,0,PASS
+THT Insertion,Op_21,4-layer,146.0,146.0,0,PASS
+Solder Paste Printing,Op_04,2-layer,168.33,168.33,0,PASS
+Reflow Soldering,Op_15,4-layer,151.49,151.49,0,PASS
+FCT,Op_33,8-layer,169.58,169.58,0,PASS
+Pick & Place,Op_12,2-layer,154.29,154.29,0,PASS
+THT Insertion,Op_23,8-layer,175.98,175.98,0,PASS
+Solder Paste Printing,Op_02,8-layer,203.84,203.84,0,PASS
+SPI (Solder Paste Inspection),Op_06,2-layer,118.33,118.33,0,PASS

@@ -1,0 +1,11 @@
+fakta,ground_truth,temuan_analisis,status
+bottleneck utama: Wave Soldering,Wave Soldering,Wave Soldering,DITEMUKAN
+bottleneck kedua: Solder Paste Printing,Solder Paste Printing,Solder Paste Printing,DITEMUKAN
+operator lambat Op_03 di SPP: deviasi terbesar di 3 model,+25% (steady),deviasi rata-rata +22.4%; terbesar di 3 dari 3 model,DITEMUKAN
+operator cepat Op_22 di THT: deviasi terkecil di 3 model,−20%,deviasi rata-rata -18.5%; terkecil di 3 dari 3 model,DITEMUKAN
+lembur ±5% lebih lambat dari normal (kedua shift),+5%,A +4.8%; B +5.2%,DITEMUKAN
+data kotor: jam kerja > 12 jam,25,25,DITEMUKAN
+data kotor: ok negatif,20,20,DITEMUKAN
+data kotor: baris ganda,40,40,DITEMUKAN
+data kotor: operator tidak terdaftar (Op_99),10,10,DITEMUKAN
+data kotor: jam kerja hilang → output tanpa jam kerja (30 × 3 model),90,90,DITEMUKAN

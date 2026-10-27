@@ -1,0 +1,31 @@
+station,model,hari,rata_rata_kapasitas,simpang_baku,koef_variasi
+Packing,2-layer,60,1131.7,164.5,0.145
+AOI (Automated Optical Inspection),2-layer,60,956.8,131.9,0.138
+SPI (Solder Paste Inspection),2-layer,60,896.7,116.0,0.129
+FCT,2-layer,60,774.6,96.4,0.124
+Pick & Place,2-layer,60,720.3,88.4,0.123
+Solder Paste Printing,2-layer,60,629.7,74.1,0.118
+ICT,2-layer,60,919.1,107.9,0.117
+Reflow Soldering,2-layer,60,785.3,90.6,0.115
+THT Insertion,2-layer,60,822.4,94.9,0.115
+Wave Soldering,2-layer,60,468.4,45.2,0.097
+Packing,4-layer,60,1073.8,153.3,0.143
+AOI (Automated Optical Inspection),4-layer,60,908.0,126.8,0.14
+Pick & Place,4-layer,60,658.2,84.0,0.128
+Solder Paste Printing,4-layer,60,599.4,76.4,0.128
+SPI (Solder Paste Inspection),4-layer,60,833.6,105.3,0.126
+THT Insertion,4-layer,60,736.0,92.3,0.125
+ICT,4-layer,60,837.4,92.8,0.111
+FCT,4-layer,60,725.4,79.5,0.11
+Reflow Soldering,4-layer,60,738.3,75.7,0.103
+Wave Soldering,4-layer,60,440.8,45.2,0.103
+Packing,8-layer,60,955.2,148.4,0.155
+Pick & Place,8-layer,60,583.3,76.5,0.131
+AOI (Automated Optical Inspection),8-layer,60,808.6,103.2,0.128
+ICT,8-layer,60,751.0,90.9,0.121
+THT Insertion,8-layer,60,653.1,77.5,0.119
+SPI (Solder Paste Inspection),8-layer,60,724.0,86.3,0.119
+Solder Paste Printing,8-layer,60,537.1,62.3,0.116
+FCT,8-layer,60,660.9,72.0,0.109
+Reflow Soldering,8-layer,60,666.2,72.8,0.109
+Wave Soldering,8-layer,60,400.9,37.9,0.095

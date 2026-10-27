@@ -1,0 +1,5 @@
+tabel,baris,kolom,kosong_total,tanggal_min,tanggal_max
+daily_output,7054,8,0,2026-03-02,2026-05-22
+work_hours,2308,4,0,2026-03-02,2026-05-22
+dim_operator,41,5,1,,
+dim_station,10,6,0,,
