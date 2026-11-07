@@ -2,6 +2,8 @@
 
 # Project 10: Cycle Time & Bottleneck Analysis
 
+**Halaman web:** https://bagusbernadi.github.io/Project-10-Cycle-Time-Bottleneck-Analysis/
+
 **Status: Selesai dan digabung ke `main`.** Dashboard belum di-deploy. Excel asli belum dicek.
 
 **Tujuan:** Menemukan stasiun yang membatasi output lini PCBA, operator yang menyimpang dari standar cycle time, dan estimasi kenaikan output jika bottleneck diperbaiki.
